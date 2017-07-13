@@ -2,6 +2,7 @@
 it is the java version of a chinese book &lt;剑指offer>, haha, I know my translation is not standard. The problems, my own solution and the best solution of the book are all in the programs. And if you want to run the programs, you just need to import the programs to the IDE. I will updata it, chapter by chapter~~ 
 
 ----------用中文好好说话--------
+
 这其实是《剑指offer》的JAVA版本，因为 剑指offer 里面的程序是用C/C++写的。
 
 在我程序最头的注释里有  问题的题目
@@ -14,7 +15,8 @@ NOTE：书中有些不必要的递归实现，而我不太能看懂递归，而�
 
 本人能力有限，希望可以和各位一起更新，让程序更优化一些
 
----------------------再来一个日文说明  得瑟会的语言多----------------------
+------------再来一个日文说明  得瑟会的语言多---------
+
 新电脑没有装日语输入法
 
 算了！
